@@ -1,14 +1,14 @@
 ---
 title: AI時代に「受託」から「共創」へ。開発会社が生き残るためのビジネスモデルの話
 tags:
-    - 開発
-    - ビジネス
-    - エンジニア
-    - AI
-    - キャリア
+  - 開発
+  - AI
+  - ビジネス
+  - キャリア
+  - エンジニア
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-05-23T01:19:09+09:00'
+id: af50c0d959f4be3e5e17
 organization_url_name: null
 slide: false
 ignorePublish: false

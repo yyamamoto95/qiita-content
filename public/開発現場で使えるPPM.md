@@ -7,7 +7,7 @@ tags:
   - ppm
   - プロダクト
 private: false
-updated_at: '2026-05-23T21:38:09+09:00'
+updated_at: '2026-05-23T21:57:35+09:00'
 id: 1344d5c31d4c7e233e97
 organization_url_name: null
 slide: false

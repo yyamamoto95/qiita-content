@@ -1,13 +1,13 @@
 ---
 title: 開発現場で使えるPPM：クライアントの「温度感」を察知して動くためのフレームワーク
 tags:
-    - 開発
-    - ビジネス
-    - エンジニア
-    - ppm
-    - プロダクト
+  - 開発
+  - ビジネス
+  - エンジニア
+  - ppm
+  - プロダクト
 private: false
-updated_at: '2026-05-23T00:46:20+09:00'
+updated_at: '2026-05-23T21:38:09+09:00'
 id: 1344d5c31d4c7e233e97
 organization_url_name: null
 slide: false

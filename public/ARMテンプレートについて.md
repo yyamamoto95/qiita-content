@@ -3,7 +3,7 @@ title: ARMテンプレートについて
 tags:
   - Azure
 private: true
-updated_at: '2026-05-23T01:19:09+09:00'
+updated_at: '2026-05-23T21:38:09+09:00'
 id: 07f1dcc239cadd325494
 organization_url_name: null
 slide: false
